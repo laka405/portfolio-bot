@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: telegram-portfolio-bot
-    env: python
-    plan: free
-    buildCommand: ""
-    startCommand: python portfolio_bot.py
