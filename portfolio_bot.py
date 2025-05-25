@@ -2,7 +2,7 @@ import telebot
 from playwright.sync_api import sync_playwright
 
 # Your Telegram Bot Token (hardcoded)
-TELEGRAM_BOT_TOKEN = '7865171608:AAHq8aW-5BKBBTjWzwJ6FH_iWT1Qm5SsPk0'
+TELEGRAM_BOT_TOKEN = '8013736348:AAFYTR-ggXW5CFBImfcdCPgPNKAOccA48MA'
 bot = telebot.TeleBot(TELEGRAM_BOT_TOKEN)
 
 debank_url = "https://debank.com/profile/0x99f83ec57fe1e09da9a20efc00156b71826e11c6"
