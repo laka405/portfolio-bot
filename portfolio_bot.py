@@ -7,7 +7,7 @@ import time
 
 # Your bot token from BotFather
 TELEGRAM_BOT_TOKEN = '7865171608:AAHq8aW-5BKBBTjWzwJ6FH_iWT1Qm5SsPk0'
-bot = telebot.TeleBot(7865171608:AAHq8aW-5BKBBTjWzwJ6FH_iWT1Qm5SsPk0)
+bot = telebot.TeleBot(TELEGRAM_BOT_TOKEN)
 
 # Portfolio URLs
 debank_url = "https://debank.com/profile/0x99f83ec57fe1e09da9a20efc00156b71826e11c6"
